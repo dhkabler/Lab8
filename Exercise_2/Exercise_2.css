@@ -1,0 +1,13 @@
+.img
+{
+    height:500px;
+    width:500px;
+}
+.show{
+    height: 500px;
+    width:500px;
+}
+.notShow{
+    display:none;
+
+}

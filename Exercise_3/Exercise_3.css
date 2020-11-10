@@ -1,0 +1,32 @@
+.background
+{
+    height:600px;
+    width:1000px;
+    background-color:lightblue;
+    position:relative;
+}
+.picture
+{
+    position:relative;
+    height:200;
+    width:300px;
+}
+.header:hover
+{
+    font-size:20px;
+    color: purple;
+    font-family: arial;
+}
+.header
+{
+    font-size:20px;
+    color: red;
+    font-family: arial;
+}
+
+.body
+{
+    font-size:20px;
+    color: black;
+    font-family: arial;
+}
